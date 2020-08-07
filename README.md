@@ -4,4 +4,4 @@
 http://msx.tipolisto.es/webmsx/standalone/?disk=files/testfc3.dsk
 
 ## Descarga el dsk pinchado aquí
-https://github.com/kikemadrigal/testfusionc/tree/master/bin 
+https://github.com/kikemadrigal/testfusionc3/tree/master/bin
